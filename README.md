@@ -1,4 +1,4 @@
-# About Handsome XiaoDiandong1024
+# About Me: Handsome XiaoDiandong1024
 
 Hey guys! I'm XiaoDiandong (小电动), or you can just call me Billy.
 
@@ -9,3 +9,6 @@ Hey guys! I'm XiaoDiandong (小电动), or you can just call me Billy.
     - 君の名は。
     - And lots to watch
 - 🍵 Currently learning Java (from [Berkeley CS61BL](https://cs61bl.org/su22/)), C++ and Rust
+- 🎤 Loves singing, have been learning since 10
+
+Please make friends with me!
