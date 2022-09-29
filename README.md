@@ -1,6 +1,6 @@
-# About Me: Handsome XiaoDiandong1024
+# About Me
 
-Hey guys! I'm XiaoDiandong (小电动), or you can just call me Billy.
+Hey guys! I'm Billy Yang, or you can just call me 🛵小电动.
 
 - 📖 Junior at Beijing University of Posts and Telecommunications
 - 🤗 Anime fan:
