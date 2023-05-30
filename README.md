@@ -1,14 +1,12 @@
 # About Me
 
-Hey guys! I'm Billy Yang, or you can just call me 🛵小电动.
+Hey guys! I'm Billy Yang.
 
-- 📖 Junior at Beijing University of Posts and Telecommunications
-- 🤗 Anime fan:
-    - 名探偵コナン
-    - 四月は君の噓
-    - 君の名は。
-    - And lots to watch
-- 🍵 Currently learning Java (from [Berkeley CS61BL](https://cs61bl.org/su22/)), C++ and Rust
-- 🎤 Loves singing, have been learning since 10
+- 📖 I'm a Junior at Beijing University of Posts and Telecommunications.
+- ⌨️ Currently learning Python, with Java and Rust in my to-do list.
+- 📊 Interested in database designs and operating systems.
+- 🎤 Loves singing, have been learning since 10. Currently a member of BUPT Chorus.
+- ✨ I'm a Genshin Impact player (XD). Favourite characters are Venti, Kazuha, Cyno and Nahida.
 
-Please make friends with me!
+Contact me with [Email](mailto:me@venti.love) ([GPG public key: 🔑DCDC68C4372C10BEE545D4FC897E57281294FF8C](https://keys.openpgp.org/vks/v1/by-fingerprint/DCDC68C4372C10BEE545D4FC897E57281294FF8C))
+
